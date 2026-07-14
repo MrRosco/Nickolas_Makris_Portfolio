@@ -1,0 +1,1 @@
+document.getElementsByClassName("div1").innerHtml() = "Hello!"
