@@ -1,7 +1,7 @@
 
 
 function test(){
-    document.getElementsByClassName("div1").innerHtml() = "Hello!";
+    document.querySelector(".div1").innerHTML = "Hello!";
 }
 
 test();
