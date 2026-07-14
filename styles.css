@@ -5,3 +5,11 @@ div{
   justify-content: center;
   align-items: center;
 }
+
+#div1{
+  margin: 200px;
+  color: crimson;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

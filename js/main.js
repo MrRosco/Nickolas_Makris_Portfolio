@@ -1,7 +1,7 @@
 
 
 function test(){
-    document.getElementsByClassName("div1").innerHtml() = "Hello!"
+    document.getElementsByClassName("div1").innerHtml() = "Hello!";
 }
 
-test()
+test();
